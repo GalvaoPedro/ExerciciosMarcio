@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+
+  .box{
+    text-align: center;
+  }
+  .contador{
+    margin-left: 500px;
+    margin-right: 500px;
+    
+  }
